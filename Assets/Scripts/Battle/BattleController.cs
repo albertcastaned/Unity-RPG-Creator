@@ -1,8 +1,8 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Random = UnityEngine.Random;
-using TMPro;
+
+using System.Linq;
 
 public class BattleController : MonoBehaviour
 {
@@ -16,7 +16,6 @@ public class BattleController : MonoBehaviour
     {
         PlayerTurn,
         EnemyTurn,
-        Commands,
         Won,
         Lose,
         Flee
@@ -43,6 +42,7 @@ public class BattleController : MonoBehaviour
 
     private List<Command> currentCommands;
 
+    private int entityIndex;
     private int playerIndex;
     private int enemySelectIndex;
     private int partySelectorIndex;
@@ -52,7 +52,12 @@ public class BattleController : MonoBehaviour
     public List<Enemy> currentEnemies;
     public List<Player> currentPlayers;
 
-    public GameObject actionMenu;
+    public List<BattleEntity> battleEntities; 
+
+
+    public EntitySelector entitySelector;
+
+    public MenuController descriptionController;
 
 
     private bool PAUSE;
@@ -89,12 +94,67 @@ public class BattleController : MonoBehaviour
             return;
         }
     }
+
+    private void InitiateBattleEntities()
+    {
+        foreach (Player player in currentPlayers)
+        {
+            battleEntities.Add(player);
+
+        }
+        foreach (Enemy enemy in currentEnemies)
+        {
+            battleEntities.Add(enemy);
+            print(enemy.Speed);
+        }
+
+        battleEntities = new List<BattleEntity>(battleEntities.OrderByDescending(entity => entity.Speed));
+        
+
+    }
+
     void Start()
     {
         currentCommands = new List<Command>();
+        InitiateBattleEntities();
         currentBattleState = BattleState.PlayerTurn;
+
+        if (battleEntities[entityIndex] is Enemy)
+            currentBattleState = BattleState.EnemyTurn;
+        else if (battleEntities[entityIndex] is Player)
+        {
+
+            currentBattleState = BattleState.PlayerTurn;
+            descriptionController.ACTIVE = true;
+            ((Player)battleEntities[entityIndex]).ActivateMenu();
+
+        }
     }
 
+    public void NextEntityTurn()
+    {
+        entityIndex++;
+        while (entityIndex < battleEntities.Count - 1 && !battleEntities[entityIndex].Alive)
+        {
+            entityIndex++;
+        }
+
+        if (entityIndex > battleEntities.Count - 1)
+            entityIndex = 0;
+
+        if (battleEntities[entityIndex] is Enemy)
+            currentBattleState = BattleState.EnemyTurn;
+        else if (battleEntities[entityIndex] is Player)
+        {
+
+            currentBattleState = BattleState.PlayerTurn;
+            descriptionController.ACTIVE = true;
+            ((Player)battleEntities[entityIndex]).ActivateMenu();
+
+        }
+
+        StartCoroutine(PauseForSeconds(0.5f));
+    }
     // Update is called once per frame
     void Update()
     {
@@ -108,60 +168,87 @@ public class BattleController : MonoBehaviour
             //TODO Result Screen
             print("WON");
         }
-        switch(currentBattleState)
+        switch (currentBattleState)
         {
-            case BattleState.Commands:
-                while (commandIndex < currentCommands.Count && !currentCommands[commandIndex].Caster.Alive)
-                    commandIndex++;
-                if (commandIndex >= currentCommands.Count)
-                {
-                    currentBattleState = BattleState.PlayerTurn;
-                    currentCommands.Clear();
-                    commandIndex = 0;
-                    playerIndex = 0;
 
-                    while (!currentPlayers[playerIndex].Alive)
-                        playerIndex++;
-                }
-                else
-                {
-                    BattleAction();
-                    commandIndex++;
-                }
-                break;
             case BattleState.PlayerTurn:
-                if(Input.GetKeyDown(KeyCode.Space))
                 {
-                    List<BattleEntity> targets = new List<BattleEntity>();
-                    targets.Add(currentEnemies[0]);
-
-                    currentCommands.Add(new Command(currentPlayers[playerIndex], targets));
-                    currentBattleState = BattleState.EnemyTurn;
-                }
-                if (Input.GetKeyDown(KeyCode.LeftShift))
-                {
-                    List<BattleEntity> targets = new List<BattleEntity>();
-                    foreach(Enemy enemy in currentEnemies)
+                    switch (currentMenuState)
                     {
-                        targets.Add(enemy);
+                        case MenuState.Idle:
+                            if (Input.GetKeyDown(KeyCode.Space))
+                            {
+                                switch (((Player)battleEntities[entityIndex]).GetSelection())
+                                {
+                                    case TypeOfCommand.Melee:
+                                        enemySelectIndex = 0;
+                                        currentMenuState = MenuState.SelectingEnemyMelee;
+                                        entitySelector.gameObject.SetActive(true);
+                                        ((Player)battleEntities[entityIndex]).DeactivateMenu();
+                                        SetSelectorToEnemy(currentEnemies[enemySelectIndex]);
+
+                                        break;
+
+                                }
+                            }
+                            break;
+                        case MenuState.SelectingEnemyMelee:
+                            if ((Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S)) && enemySelectIndex > 0)
+                            {
+                                currentEnemies[enemySelectIndex].SetSelected(false);
+
+                                enemySelectIndex--;
+                                SetSelectorToEnemy(currentEnemies[enemySelectIndex]);
+                            }
+
+                            if ((Input.GetKeyDown(KeyCode.D) || Input.GetKeyDown(KeyCode.W)) && enemySelectIndex < currentEnemies.Count - 1)
+                            {
+                                currentEnemies[enemySelectIndex].SetSelected(false);
+
+                                enemySelectIndex++;
+                                SetSelectorToEnemy(currentEnemies[enemySelectIndex]);
+
+                            }
+                            if (Input.GetKeyDown(KeyCode.Escape))
+                            {
+                                currentMenuState = MenuState.Idle;
+                                entitySelector.gameObject.SetActive(false);
+                                currentEnemies[enemySelectIndex].SetSelected(false);
+                                ((Player)battleEntities[entityIndex]).ActivateMenu();
+                            }
+
+                            if (Input.GetKeyDown(KeyCode.Space))
+                            {
+                                currentMenuState = MenuState.Idle;
+                                entitySelector.gameObject.SetActive(false);
+                                currentEnemies[enemySelectIndex].SetSelected(false);
+
+                                battleEntities[entityIndex].SetTarget(currentEnemies[enemySelectIndex]);
+                                battleEntities[entityIndex].StartAttack();
+                                descriptionController.ACTIVE = false;
+                                PAUSE = true;
+
+                            }
+
+
+                            break;
                     }
-                    currentCommands.Add(new Command(currentPlayers[playerIndex], targets));
-                    currentBattleState = BattleState.EnemyTurn;
+
+                    break;
+
                 }
-                break;
             case BattleState.EnemyTurn:
-
-                foreach(Enemy enemy in currentEnemies)
                 {
-                    List<BattleEntity> targets = new List<BattleEntity>
+                    if (!battleEntities[entityIndex].Alive)
                     {
-                        currentPlayers[0]
-                    };
-                    currentCommands.Add(new Command(enemy, targets));
-
+                        NextEntityTurn();
+                        break;
+                    }
+                    battleEntities[entityIndex].SetTarget(currentPlayers[Random.Range(0, currentPlayers.Count)]);
+                    battleEntities[entityIndex].StartAttack();
+                    PAUSE = true;
+                    break;
                 }
-                currentBattleState = BattleState.Commands;
-                break;
             case BattleState.Won:
 
                 break;
@@ -193,6 +280,15 @@ public class BattleController : MonoBehaviour
     {
         currentEnemies.Remove(enemy);
     }
+
+    private void SetSelectorToEnemy(Enemy enemy)
+    {
+        Vector3 dest = new Vector3(enemy.gameObject.transform.position.x, enemy.gameObject.transform.position.y + 5f, enemy.gameObject.transform.position.z);
+        entitySelector.SetDestination(dest);
+
+        enemy.SetSelected(true);
+    }
+
     void OnGUI()
     {
         GUI.Label(new Rect(10, 10, 100, 20), currentBattleState.ToString());

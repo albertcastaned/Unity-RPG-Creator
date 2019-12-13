@@ -2,6 +2,7 @@
 using UnityEngine;
 [CreateAssetMenu(fileName = "New Enemy", menuName = "Enemy")]
 
+
 public class EnemyData : ScriptableObject
 {
     [Header("Description")]
@@ -9,9 +10,15 @@ public class EnemyData : ScriptableObject
     public Sprite sprite;
     public string description = "A hostile enemy.";
 
+    [Header("Animator")]
+    public RuntimeAnimatorController animator;
+
     [Header("Stats")]
     public int HP = 10;
+    public int MaxHP = 10;
     public int SP = 10;
+    public int MaxSP = 10;
+
     public int Offense = 10;
     public int Defense = 10;
     public int Speed = 10;

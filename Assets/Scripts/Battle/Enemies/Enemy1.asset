@@ -10,16 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5554b2f2cfd1a6f479fceb704b0294d8, type: 3}
-  m_Name: Enemy2
+  m_Name: Enemy1
   m_EditorClassIdentifier: 
   enemyName: Enemy
-  sprite: {fileID: 6657046128381406734, guid: 5eb09a3977d26fa42aa4e5065ceaae7f, type: 3}
+  sprite: {fileID: -4167543780277359114, guid: 18e3d1c1864b71249992f8445128c267, type: 3}
   description: A hostile enemy.
-  HP: 10
+  animator: {fileID: 22100000, guid: 21bfd403c21c8ed439a4f647007a8fe4, type: 2}
+  HP: 15
+  MaxHP: 15
   SP: 10
-  Offense: 10
-  Defense: 10
-  Speed: 10
+  MaxSP: 10
+  Offense: 40
+  Defense: 1
+  Speed: 1
   Luck: 10
   HypnosisChance: 10
   ParalysisChance: 10

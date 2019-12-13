@@ -2,5 +2,8 @@
 {
         Melee,
         Special,
-        Item
+        Item,
+        Check,
+        Guard,
+        Flee
 }

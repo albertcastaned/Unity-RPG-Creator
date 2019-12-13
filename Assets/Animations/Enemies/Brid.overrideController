@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Brid
+  m_Controller: {fileID: 9100000, guid: 3cecba3972ca25b41a816377bc853eef, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 6ae7d5a6603ccab42b82fed69f13192b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 6934e252509fe854cb03c27a1ea7086f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 1ed963cdf4b789c4ba0e455fd3b250eb, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 973001dde8ff1144b94ed73a4fbc91a5, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 9c47af5c93768df4fa10a97317973948, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: fcf5057a7955d8e43bf816ff6ca1d91e, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 7a2ed7b58eaa5fe4598679bd50104a9f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 414ba57cc2594b64a936799dfe99d99f, type: 2}
