@@ -1,0 +1,4951 @@
+fileFormatVersion: 2
+guid: b8d1d2001fb492741995277c41a6ff26
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3271364913043378542
+    second: KikeKunSpriteSheet_0
+  - first:
+      213: -7210530397318758941
+    second: KikeKunSpriteSheet_1
+  - first:
+      213: 5390167684729615081
+    second: KikeKunSpriteSheet_2
+  - first:
+      213: -8956997454594340083
+    second: KikeKunSpriteSheet_3
+  - first:
+      213: 22379162045476974
+    second: KikeKunSpriteSheet_4
+  - first:
+      213: -1632569001477765580
+    second: KikeKunSpriteSheet_5
+  - first:
+      213: 2787790308075038598
+    second: KikeKunSpriteSheet_6
+  - first:
+      213: 8300577534810115486
+    second: KikeKunSpriteSheet_7
+  - first:
+      213: -2406558524010587322
+    second: KikeKunSpriteSheet_8
+  - first:
+      213: -8407054010599099351
+    second: KikeKunSpriteSheet_9
+  - first:
+      213: 8442375743513636584
+    second: KikeKunSpriteSheet_10
+  - first:
+      213: 3730074413756139849
+    second: KikeKunSpriteSheet_11
+  - first:
+      213: -476389534351405470
+    second: KikeKunSpriteSheet_12
+  - first:
+      213: -4216161198442499339
+    second: KikeKunSpriteSheet_13
+  - first:
+      213: 3295212230261172831
+    second: KikeKunSpriteSheet_14
+  - first:
+      213: -846555875058890448
+    second: KikeKunSpriteSheet_15
+  - first:
+      213: 4141636088416420767
+    second: KikeKunSpriteSheet_16
+  - first:
+      213: 5920054038400674406
+    second: KikeKunSpriteSheet_17
+  - first:
+      213: 1262576333402518213
+    second: KikeKunSpriteSheet_18
+  - first:
+      213: -3495766936870183077
+    second: KikeKunSpriteSheet_19
+  - first:
+      213: 7107466557214617164
+    second: KikeKunSpriteSheet_20
+  - first:
+      213: -4430825680315943992
+    second: KikeKunSpriteSheet_21
+  - first:
+      213: 893907951762347524
+    second: KikeKunSpriteSheet_22
+  - first:
+      213: -8419155808950188898
+    second: KikeKunSpriteSheet_23
+  - first:
+      213: 7250266602400695021
+    second: KikeKunSpriteSheet_24
+  - first:
+      213: -3835459941583348480
+    second: KikeKunSpriteSheet_25
+  - first:
+      213: 4630518681832715340
+    second: KikeKunSpriteSheet_26
+  - first:
+      213: 3432557303533317020
+    second: KikeKunSpriteSheet_27
+  - first:
+      213: 2441904242928253570
+    second: KikeKunSpriteSheet_28
+  - first:
+      213: 5867627004750313104
+    second: KikeKunSpriteSheet_29
+  - first:
+      213: 8578583299630134791
+    second: KikeKunSpriteSheet_30
+  - first:
+      213: 4815726569382865760
+    second: KikeKunSpriteSheet_31
+  - first:
+      213: -3519268902053166670
+    second: KikeKunSpriteSheet_32
+  - first:
+      213: 3441650945314003210
+    second: KikeKunSpriteSheet_33
+  - first:
+      213: 5171465924769383234
+    second: KikeKunSpriteSheet_34
+  - first:
+      213: -4957237211509291206
+    second: KikeKunSpriteSheet_35
+  - first:
+      213: -4046229364830932505
+    second: KikeKunSpriteSheet_36
+  - first:
+      213: 1350488867507402945
+    second: KikeKunSpriteSheet_37
+  - first:
+      213: -4267019697435796036
+    second: KikeKunSpriteSheet_38
+  - first:
+      213: 7609230201289505559
+    second: KikeKunSpriteSheet_39
+  - first:
+      213: -3109363045991266946
+    second: KikeKunSpriteSheet_40
+  - first:
+      213: -3654511102112032268
+    second: KikeKunSpriteSheet_41
+  - first:
+      213: -7190758150566278144
+    second: KikeKunSpriteSheet_42
+  - first:
+      213: 562505978966155654
+    second: KikeKunSpriteSheet_43
+  - first:
+      213: -3146916918936888402
+    second: KikeKunSpriteSheet_44
+  - first:
+      213: -1041397027113305869
+    second: KikeKunSpriteSheet_45
+  - first:
+      213: 20114537273407072
+    second: KikeKunSpriteSheet_46
+  - first:
+      213: -875177667875982453
+    second: KikeKunSpriteSheet_47
+  - first:
+      213: 7533540397821668027
+    second: KikeKunSpriteSheet_48
+  - first:
+      213: -6396610111613550249
+    second: KikeKunSpriteSheet_49
+  - first:
+      213: -3614189729578292507
+    second: KikeKunSpriteSheet_50
+  - first:
+      213: -7073274109798363920
+    second: KikeKunSpriteSheet_51
+  - first:
+      213: 8289737152609742344
+    second: KikeKunSpriteSheet_52
+  - first:
+      213: -6906534847641354686
+    second: KikeKunSpriteSheet_53
+  - first:
+      213: 808726095380890419
+    second: KikeKunSpriteSheet_54
+  - first:
+      213: -6595563823999827086
+    second: KikeKunSpriteSheet_55
+  - first:
+      213: 4605939475174975475
+    second: KikeKunSpriteSheet_56
+  - first:
+      213: 5817009151823754883
+    second: KikeKunSpriteSheet_57
+  - first:
+      213: -1141015585358216077
+    second: KikeKunSpriteSheet_58
+  - first:
+      213: -3885671622038940541
+    second: KikeKunSpriteSheet_59
+  - first:
+      213: 689385726713301633
+    second: KikeKunSpriteSheet_60
+  - first:
+      213: 9137779346380060220
+    second: KikeKunSpriteSheet_61
+  - first:
+      213: 4693207108205259430
+    second: KikeKunSpriteSheet_62
+  - first:
+      213: 8466941210909571761
+    second: KikeKunSpriteSheet_63
+  - first:
+      213: -4289864570973340049
+    second: KikeKunSpriteSheet_64
+  - first:
+      213: -8906969663501717687
+    second: KikeKunSpriteSheet_65
+  - first:
+      213: -9134036934563300566
+    second: KikeKunSpriteSheet_66
+  - first:
+      213: 4233241789893935023
+    second: KikeKunSpriteSheet_67
+  - first:
+      213: 8250530918591862011
+    second: KikeKunSpriteSheet_68
+  - first:
+      213: 9120267617684284183
+    second: KikeKunSpriteSheet_69
+  - first:
+      213: 9120551768721280299
+    second: KikeKunSpriteSheet_70
+  - first:
+      213: 609128618314392349
+    second: KikeKunSpriteSheet_71
+  - first:
+      213: -2811934231489476124
+    second: KikeKunSpriteSheet_72
+  - first:
+      213: 865869413390253049
+    second: KikeKunSpriteSheet_73
+  - first:
+      213: 4275616497423329601
+    second: KikeKunSpriteSheet_74
+  - first:
+      213: -2219268142621623042
+    second: KikeKunSpriteSheet_75
+  - first:
+      213: 5738392486245715114
+    second: KikeKunSpriteSheet_76
+  - first:
+      213: -3224006571394612161
+    second: KikeKunSpriteSheet_77
+  - first:
+      213: -5298177789873061594
+    second: KikeKunSpriteSheet_78
+  - first:
+      213: -7914617986967619586
+    second: KikeKunSpriteSheet_79
+  - first:
+      213: -8644642284810395598
+    second: KikeKunSpriteSheet_80
+  - first:
+      213: -7576654238722514748
+    second: KikeKunSpriteSheet_81
+  - first:
+      213: -3603544334500508211
+    second: KikeKunSpriteSheet_82
+  - first:
+      213: -8687260369029151075
+    second: KikeKunSpriteSheet_83
+  - first:
+      213: 5921422548546002175
+    second: KikeKunSpriteSheet_84
+  - first:
+      213: 6351067535610976771
+    second: KikeKunSpriteSheet_85
+  - first:
+      213: 1154446757821373258
+    second: KikeKunSpriteSheet_86
+  - first:
+      213: 1112948710917651458
+    second: KikeKunSpriteSheet_87
+  - first:
+      213: 8705769603623576716
+    second: KikeKunSpriteSheet_88
+  - first:
+      213: -5419338846640632031
+    second: KikeKunSpriteSheet_89
+  - first:
+      213: 4696116640950712353
+    second: KikeKunSpriteSheet_90
+  - first:
+      213: -6250859207544864398
+    second: KikeKunSpriteSheet_91
+  - first:
+      213: -4217494157566386414
+    second: KikeKunSpriteSheet_92
+  - first:
+      213: 396920955673352854
+    second: KikeKunSpriteSheet_93
+  - first:
+      213: -4048296773921149794
+    second: KikeKunSpriteSheet_94
+  - first:
+      213: 1427477079782980771
+    second: KikeKunSpriteSheet_95
+  - first:
+      213: 8043304194377514717
+    second: KikeKunSpriteSheet_96
+  - first:
+      213: -3798575845405228987
+    second: KikeKunSpriteSheet_97
+  - first:
+      213: 6504965318924917824
+    second: KikeKunSpriteSheet_98
+  - first:
+      213: -8973921063121751927
+    second: KikeKunSpriteSheet_99
+  - first:
+      213: 7845900706245075111
+    second: KikeKunSpriteSheet_100
+  - first:
+      213: 2659870202984463997
+    second: KikeKunSpriteSheet_101
+  - first:
+      213: 6228642857723466538
+    second: KikeKunSpriteSheet_102
+  - first:
+      213: 3725019800126671288
+    second: KikeKunSpriteSheet_103
+  - first:
+      213: -788409545746955637
+    second: KikeKunSpriteSheet_104
+  - first:
+      213: -3854071695663671271
+    second: KikeKunSpriteSheet_105
+  - first:
+      213: -2643016286850630021
+    second: KikeKunSpriteSheet_106
+  - first:
+      213: 2866961102733414375
+    second: KikeKunSpriteSheet_107
+  - first:
+      213: 1175248183801064336
+    second: KikeKunSpriteSheet_108
+  - first:
+      213: 3108332280734219940
+    second: KikeKunSpriteSheet_109
+  - first:
+      213: -6659362871340706429
+    second: KikeKunSpriteSheet_110
+  - first:
+      213: -2443098679975986713
+    second: KikeKunSpriteSheet_111
+  - first:
+      213: 4560685678428011804
+    second: KikeKunSpriteSheet_112
+  - first:
+      213: 6266952918019102153
+    second: KikeKunSpriteSheet_113
+  - first:
+      213: 4563102139004853588
+    second: KikeKunSpriteSheet_114
+  - first:
+      213: -3718727860866070579
+    second: KikeKunSpriteSheet_115
+  - first:
+      213: 5072452881081359391
+    second: KikeKunSpriteSheet_116
+  - first:
+      213: -5524732922807141408
+    second: KikeKunSpriteSheet_117
+  - first:
+      213: 5453461419289836299
+    second: KikeKunSpriteSheet_118
+  - first:
+      213: -8858263268050759459
+    second: KikeKunSpriteSheet_119
+  - first:
+      213: -4998181930546965690
+    second: KikeKunSpriteSheet_120
+  - first:
+      213: -5456281123413972776
+    second: KikeKunSpriteSheet_121
+  - first:
+      213: 265461818494612300
+    second: KikeKunSpriteSheet_122
+  - first:
+      213: 4712361302827439538
+    second: KikeKunSpriteSheet_123
+  - first:
+      213: -9053422651507277536
+    second: KikeKunSpriteSheet_124
+  - first:
+      213: 6030660504639285027
+    second: KikeKunSpriteSheet_125
+  - first:
+      213: 4982659890255359585
+    second: KikeKunSpriteSheet_126
+  - first:
+      213: -8414742049242149141
+    second: KikeKunSpriteSheet_127
+  - first:
+      213: 7515711020988536692
+    second: KikeKunSpriteSheet_128
+  - first:
+      213: -4950843020990204056
+    second: KikeKunSpriteSheet_129
+  - first:
+      213: -8245654677745357910
+    second: KikeKunSpriteSheet_130
+  - first:
+      213: -5798934999099709584
+    second: KikeKunSpriteSheet_131
+  - first:
+      213: -407352724221962513
+    second: KikeKunSpriteSheet_132
+  - first:
+      213: -4848324104360338081
+    second: KikeKunSpriteSheet_133
+  - first:
+      213: 5779526583956457156
+    second: KikeKunSpriteSheet_134
+  - first:
+      213: -1064638057399580805
+    second: KikeKunSpriteSheet_135
+  - first:
+      213: 1445554878706055943
+    second: KikeKunSpriteSheet_136
+  - first:
+      213: -7454143656602123864
+    second: KikeKunSpriteSheet_137
+  - first:
+      213: -754486134046077436
+    second: KikeKunSpriteSheet_138
+  - first:
+      213: -865579218610894965
+    second: KikeKunSpriteSheet_139
+  - first:
+      213: 5354168913438647426
+    second: KikeKunSpriteSheet_140
+  - first:
+      213: -5637348476481873000
+    second: KikeKunSpriteSheet_141
+  - first:
+      213: 3806818532418987077
+    second: KikeKunSpriteSheet_142
+  - first:
+      213: -3201303984719523849
+    second: KikeKunSpriteSheet_143
+  - first:
+      213: 967646204255109156
+    second: KikeKunSpriteSheet_144
+  - first:
+      213: 1093947656750842558
+    second: KikeKunSpriteSheet_145
+  - first:
+      213: 6441111665315484741
+    second: KikeKunSpriteSheet_146
+  - first:
+      213: -5895494488316322467
+    second: KikeKunSpriteSheet_147
+  - first:
+      213: 9177365364418672931
+    second: KikeKunSpriteSheet_148
+  - first:
+      213: 8444118418244993558
+    second: KikeKunSpriteSheet_149
+  - first:
+      213: -7851715647011569335
+    second: KikeKunSpriteSheet_150
+  - first:
+      213: -3347946632728418215
+    second: KikeKunSpriteSheet_151
+  - first:
+      213: 2953112004425020752
+    second: KikeKunSpriteSheet_152
+  - first:
+      213: -3779612373636186953
+    second: KikeKunSpriteSheet_153
+  - first:
+      213: -911837205700489091
+    second: KikeKunSpriteSheet_154
+  - first:
+      213: 5203824425910282882
+    second: KikeKunSpriteSheet_155
+  - first:
+      213: -8545276575987594740
+    second: KikeKunSpriteSheet_156
+  - first:
+      213: 4764572819837485339
+    second: KikeKunSpriteSheet_157
+  - first:
+      213: -5129515869368948277
+    second: KikeKunSpriteSheet_158
+  - first:
+      213: 2720237050475047409
+    second: KikeKunSpriteSheet_159
+  - first:
+      213: -3426195226093348855
+    second: KikeKunSpriteSheet_160
+  - first:
+      213: -2354088383654064236
+    second: KikeKunSpriteSheet_161
+  - first:
+      213: 6167125928850395596
+    second: KikeKunSpriteSheet_162
+  - first:
+      213: 2936089291702924846
+    second: KikeKunSpriteSheet_163
+  - first:
+      213: 4978284761052614859
+    second: KikeKunSpriteSheet_164
+  - first:
+      213: -8363702028380433335
+    second: KikeKunSpriteSheet_165
+  - first:
+      213: 2236816952548536931
+    second: KikeKunSpriteSheet_166
+  - first:
+      213: -4033955895737703495
+    second: KikeKunSpriteSheet_167
+  - first:
+      213: 8371779703816000539
+    second: KikeKunSpriteSheet_168
+  - first:
+      213: 1317756044207712066
+    second: KikeKunSpriteSheet_169
+  - first:
+      213: 4946283588128415648
+    second: KikeKunSpriteSheet_170
+  - first:
+      213: 3348343427975018520
+    second: KikeKunSpriteSheet_171
+  - first:
+      213: -3082672251896165504
+    second: KikeKunSpriteSheet_172
+  - first:
+      213: 873902417130812609
+    second: KikeKunSpriteSheet_173
+  - first:
+      213: -7960632399799946773
+    second: KikeKunSpriteSheet_174
+  - first:
+      213: -3841550052894837522
+    second: KikeKunSpriteSheet_175
+  - first:
+      213: -4426830390891032998
+    second: KikeKunSpriteSheet_176
+  - first:
+      213: -6442606860330167572
+    second: KikeKunSpriteSheet_177
+  - first:
+      213: 4194846893369800318
+    second: KikeKunSpriteSheet_178
+  - first:
+      213: 7811904905086645117
+    second: KikeKunSpriteSheet_179
+  - first:
+      213: -6470870100107790181
+    second: KikeKunSpriteSheet_180
+  - first:
+      213: -1862597991310808562
+    second: KikeKunSpriteSheet_181
+  - first:
+      213: -7579870442927565605
+    second: KikeKunSpriteSheet_182
+  - first:
+      213: 9097541426855576492
+    second: KikeKunSpriteSheet_183
+  - first:
+      213: 8759780523443177763
+    second: KikeKunSpriteSheet_184
+  - first:
+      213: 5791758146002277550
+    second: KikeKunSpriteSheet_185
+  - first:
+      213: -520417906278168655
+    second: KikeKunSpriteSheet_186
+  - first:
+      213: 5817782934261931132
+    second: KikeKunSpriteSheet_187
+  - first:
+      213: -5223457673179171819
+    second: KikeKunSpriteSheet_188
+  - first:
+      213: -9114977100003183564
+    second: KikeKunSpriteSheet_189
+  - first:
+      213: 8762872351007155809
+    second: KikeKunSpriteSheet_190
+  - first:
+      213: 6299179869765671092
+    second: KikeKunSpriteSheet_191
+  - first:
+      213: 7548382914210045469
+    second: KikeKunSpriteSheet_192
+  - first:
+      213: -7398871673603713736
+    second: KikeKunSpriteSheet_193
+  - first:
+      213: -4605887006388438089
+    second: KikeKunSpriteSheet_194
+  - first:
+      213: 9141616665173169840
+    second: KikeKunSpriteSheet_195
+  - first:
+      213: -5328977449140258789
+    second: KikeKunSpriteSheet_196
+  - first:
+      213: -5737482951131245938
+    second: KikeKunSpriteSheet_197
+  - first:
+      213: 4367215464129509181
+    second: KikeKunSpriteSheet_198
+  - first:
+      213: 1142278297732348649
+    second: KikeKunSpriteSheet_199
+  - first:
+      213: 9059513863286701646
+    second: KikeKunSpriteSheet_200
+  - first:
+      213: -4885303200658747672
+    second: KikeKunSpriteSheet_201
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2050
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e6f5ba1f6c992d0800000000000000
+      internalID: -3271364913043378542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2050
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edb8a18ecc0feb90800000000000000
+      internalID: -7210530397318758941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2050
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2391073f8bdca40800000000000000
+      internalID: 5390167684729615081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2050
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b83d0754a52b380800000000000000
+      internalID: -8956997454594340083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2050
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e607714bab18f4000800000000000000
+      internalID: 22379162045476974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2050
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4368a939423f759e0800000000000000
+      internalID: -1632569001477765580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2050
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687e61dc38830b620800000000000000
+      internalID: 2787790308075038598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1985
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dc1f02a43913370800000000000000
+      internalID: 8300577534810115486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1985
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b192dd5cf2a9ed0800000000000000
+      internalID: -2406558524010587322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1985
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924b7ba7be4245b80800000000000000
+      internalID: -8407054010599099351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1985
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee21845208592570800000000000000
+      internalID: 8442375743513636584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1985
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94945b1aae2e3c330800000000000000
+      internalID: 3730074413756139849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1985
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e45461e368369f0800000000000000
+      internalID: -476389534351405470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1985
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2bc0b6abf2d75c0800000000000000
+      internalID: -4216161198442499339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1920
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a6d3c8012fabd20800000000000000
+      internalID: 3295212230261172831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1920
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0394898baed6044f0800000000000000
+      internalID: -846555875058890448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1920
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93cffe341c0a7930800000000000000
+      internalID: 4141636088416420767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1920
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a2df938c1482250800000000000000
+      internalID: 5920054038400674406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1920
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b54e5c72958110800000000000000
+      internalID: 1262576333402518213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1920
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f1c460e7a8c7fc0800000000000000
+      internalID: -3495766936870183077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1920
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4eeeb34d2bc2a260800000000000000
+      internalID: 7107466557214617164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1857
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3f61fe48b8282c0800000000000000
+      internalID: -4430825680315943992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1857
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40611b6cb8cc76c00800000000000000
+      internalID: 893907951762347524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1857
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e948bdaf566292b80800000000000000
+      internalID: -8419155808950188898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1857
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2c8f2bf0f1e9460800000000000000
+      internalID: 7250266602400695021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1857
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d1fa71185b5cac0800000000000000
+      internalID: -3835459941583348480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1857
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f2742538e24040800000000000000
+      internalID: 4630518681832715340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1857
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ba64c5ea4e2af20800000000000000
+      internalID: 3432557303533317020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1794
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28af14f98f263e120800000000000000
+      internalID: 2441904242928253570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1792
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096b1ac3caffd6150800000000000000
+      internalID: 5867627004750313104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1792
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7067d8a4f004d0770800000000000000
+      internalID: 8578583299630134791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1792
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06be97fccc5e4d240800000000000000
+      internalID: 4815726569382865760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1792
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1ca08549b092fc0800000000000000
+      internalID: -3519268902053166670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1792
+        width: 23
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a091454dc4333cf20800000000000000
+      internalID: 3441650945314003210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1792
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2438ae5ebdcb4c740800000000000000
+      internalID: 5171465924769383234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1792
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3704ac450b543bb0800000000000000
+      internalID: -4957237211509291206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1729
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e17f7d94d7e8d7c0800000000000000
+      internalID: -4046229364830932505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1729
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f5e44876edb210800000000000000
+      internalID: 1350488867507402945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1729
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd9ebc513088c4c0800000000000000
+      internalID: -4267019697435796036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1728
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bf80a7d8a699960800000000000000
+      internalID: 7609230201289505559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1728
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75c6f5a8c259d4d0800000000000000
+      internalID: -3109363045991266946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1728
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f914ead381984dc0800000000000000
+      internalID: -3654511102112032268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1728
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c80c17f8b453c90800000000000000
+      internalID: -7190758150566278144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1728
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681af44253c6ec700800000000000000
+      internalID: 562505978966155654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab991d3cb7e354d0800000000000000
+      internalID: -3146916918936888402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1665
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f873c0ebe63c81f0800000000000000
+      internalID: -1041397027113305869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1665
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066b009a016774000800000000000000
+      internalID: 20114537273407072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1665
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83b5e64c8ebad3f0800000000000000
+      internalID: -875177667875982453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1665
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba2731d3138c8860800000000000000
+      internalID: 7533540397821668027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1665
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7514a928efcaa37a0800000000000000
+      internalID: -6396610111613550249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1665
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaee99f691d7ddc0800000000000000
+      internalID: -3614189729578292507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1665
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc40864caea6dd90800000000000000
+      internalID: -7073274109798363920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1601
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e69a6f4001b0370800000000000000
+      internalID: 8289737152609742344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1601
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24efa71062f0720a0800000000000000
+      internalID: -6906534847641354686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1601
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33344c3591c293b00800000000000000
+      internalID: 808726095380890419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1600
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273c21995a9d774a0800000000000000
+      internalID: -6595563823999827086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1600
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7e0c2ac859bef30800000000000000
+      internalID: 4605939475174975475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1600
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386b6a5f00b2ab050800000000000000
+      internalID: 5817009151823754883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1600
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740a87de5c4a20f0800000000000000
+      internalID: -1141015585358216077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1600
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3849d863f32531ac0800000000000000
+      internalID: -3885671622038940541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1539
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a88f97aa0319900800000000000000
+      internalID: 689385726713301633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1539
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3672e8c6e9efce70800000000000000
+      internalID: 9137779346380060220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1538
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa9edcffe912140800000000000000
+      internalID: 4693207108205259430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1537
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba716aeb2e908570800000000000000
+      internalID: 8466941210909571761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1538
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb990c6e65774c0800000000000000
+      internalID: -4289864570973340049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1539
+        width: 36
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94faccd3846146480800000000000000
+      internalID: -8906969663501717687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1538
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b7e0e5dc16d3180800000000000000
+      internalID: -9134036934563300566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1537
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf77feaafe7fba30800000000000000
+      internalID: 4233241789893935023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1538
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf49b034826cf7270800000000000000
+      internalID: 8250530918591862011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1473
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 713e198b313b19e70800000000000000
+      internalID: 9120267617684284183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1474
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d413ac285b29e70800000000000000
+      internalID: 9120551768721280299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1475
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d136725404f047800800000000000000
+      internalID: 609128618314392349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_72
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1475
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e90f48f6b00af8d0800000000000000
+      internalID: -2811934231489476124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1474
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb7007d4af240c00800000000000000
+      internalID: 865869413390253049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1474
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149a7bc1d8a065b30800000000000000
+      internalID: 4275616497423329601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1474
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc72b9e1639331e0800000000000000
+      internalID: -2219268142621623042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_76
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1474
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac427c109dd2af40800000000000000
+      internalID: 5738392486245715114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_77
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1474
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34cf76da170243d0800000000000000
+      internalID: -3224006571394612161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1408
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62180cdfe571976b0800000000000000
+      internalID: -5298177789873061594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1408
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7b0e1dfd0a92290800000000000000
+      internalID: -7914617986967619586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1409
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2302e8ba4af080880800000000000000
+      internalID: -8644642284810395598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1409
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0acfadc115ad690800000000000000
+      internalID: -7576654238722514748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdc9b92583adfdc0800000000000000
+      internalID: -3603544334500508211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1408
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9640b0b8b6a07780800000000000000
+      internalID: -8687260369029151075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1409
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc92135f6e1d2250800000000000000
+      internalID: 5921422548546002175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1409
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a9b943646832850800000000000000
+      internalID: 6351067535610976771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1408
+        width: 35
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b5b00b53b650010800000000000000
+      internalID: 1154446757821373258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1345
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cb977b4fcf17f00800000000000000
+      internalID: 1112948710917651458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1346
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c846060545b11d870800000000000000
+      internalID: 8705769603623576716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1347
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f82882804aac4b0800000000000000
+      internalID: -5419338846640632031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1347
+        width: 29
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128faaf2435fb2140800000000000000
+      internalID: 4696116640950712353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1346
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2710f415bac7049a0800000000000000
+      internalID: -6250859207544864398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1346
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f58ffa8637875c0800000000000000
+      internalID: -4217494157566386414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1346
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a91d69185228500800000000000000
+      internalID: 396920955673352854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1346
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ce11d688f81d7c0800000000000000
+      internalID: -4048296773921149794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1346
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3acf97947da6fc310800000000000000
+      internalID: 1427477079782980771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddef74eac8e8f9f60800000000000000
+      internalID: 8043304194377514717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5400e32f46fb84bc0800000000000000
+      internalID: -3798575845405228987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c51c62e77464a50800000000000000
+      internalID: 6504965318924917824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9807b36c65a367380800000000000000
+      internalID: -8973921063121751927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1281
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a069ba7f1d32ec60800000000000000
+      internalID: 7845900706245075111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1281
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ef8856bd1c9e420800000000000000
+      internalID: 2659870202984463997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a239167ada5907650800000000000000
+      internalID: 6228642857723466538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1216
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9c8dfa5cde1b330800000000000000
+      internalID: 3725019800126671288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82c93002b10f05f0800000000000000
+      internalID: -788409545746955637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91854196636938ac0800000000000000
+      internalID: -3854071695663671271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1216
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e32beb0be125bd0800000000000000
+      internalID: -2643016286850630021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8941eeed79c720800000000000000
+      internalID: 2866961102733414375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1152
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ba2661ff15f4010800000000000000
+      internalID: 1175248183801064336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1152
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aefa0d9db3032b20800000000000000
+      internalID: 3108332280734219940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385df4750c03593a0800000000000000
+      internalID: -6659362871340706429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1153
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e93ec4d1be581ed0800000000000000
+      internalID: -2443098679975986713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1153
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1db9e2067fca4f30800000000000000
+      internalID: 4560685678428011804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1153
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c550a6a970b8f650800000000000000
+      internalID: 6266952918019102153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1089
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d95351835635f30800000000000000
+      internalID: 4563102139004853588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1088
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7cab496bc646cc0800000000000000
+      internalID: -3718727860866070579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1cd2c43509f46640800000000000000
+      internalID: 5072452881081359391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1088
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ebbc219da43453b0800000000000000
+      internalID: -5524732922807141408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1088
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b711564469eab40800000000000000
+      internalID: 5453461419289836299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1088
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd091f4ad70211580800000000000000
+      internalID: -8858263268050759459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643d8f20404e2aab0800000000000000
+      internalID: -4998181930546965690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8ad341a356744b0800000000000000
+      internalID: -5456281123413972776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1024
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43fcc01e1c1fa300800000000000000
+      internalID: 265461818494612300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5935443aba56140800000000000000
+      internalID: 4712361302827439538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1024
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0210f67c018cb5280800000000000000
+      internalID: -9053422651507277536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1024
+        width: 25
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327a004f6c531b350800000000000000
+      internalID: 6030660504639285027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1024
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ee14b55c6f52540800000000000000
+      internalID: 4982659890255359585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee016e70b4d83b80800000000000000
+      internalID: -8414742049242149141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1024
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47792888a5b2d4860800000000000000
+      internalID: 7515711020988536692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1024
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 867382bc0821b4bb0800000000000000
+      internalID: -4950843020990204056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1024
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab237802cc819d80800000000000000
+      internalID: -8245654677745357910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1024
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e417a75b068fa0800000000000000
+      internalID: -5798934999099709584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1024
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe656760bdac85af0800000000000000
+      internalID: -407352724221962513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 961
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d53a32aea47bcb0800000000000000
+      internalID: -4848324104360338081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 961
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6c6ae8ec0053050800000000000000
+      internalID: 5779526583956457156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 961
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b770656d355a931f0800000000000000
+      internalID: -1064638057399580805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b7b98d084af0410800000000000000
+      internalID: 1445554878706055943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1cf7b86df8d8890800000000000000
+      internalID: -7454143656602123864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ec938cbd68785f0800000000000000
+      internalID: -754486134046077436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ccb56948dcf3f0800000000000000
+      internalID: -865579218610894965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 960
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28423f85244dd4a40800000000000000
+      internalID: 5354168913438647426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 960
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b5538bd6d14c1b0800000000000000
+      internalID: -5637348476481873000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 960
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544253d294984d430800000000000000
+      internalID: 3806818532418987077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff00c4bcfea293d0800000000000000
+      internalID: -3201303984719523849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 960
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42081e09815cd6d00800000000000000
+      internalID: 967646204255109156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 960
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2418b099b7e2f00800000000000000
+      internalID: 1093947656750842558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54411c1eeec636950800000000000000
+      internalID: 6441111665315484741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5dd1a0affefe2ea0800000000000000
+      internalID: -5895494488316322467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 898
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329f528dc2d8c5f70800000000000000
+      internalID: 9177365364418672931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61283d866f88f2570800000000000000
+      internalID: 8444118418244993558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 896
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941cf7e183a190390800000000000000
+      internalID: -7851715647011569335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 896
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958e1459644b981d0800000000000000
+      internalID: -3347946632728418215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 896
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055f1b5c8bf8bf820800000000000000
+      internalID: 2953112004425020752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc7eb8429e1c8bc0800000000000000
+      internalID: -3779612373636186953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70dc3d74e08853f0800000000000000
+      internalID: -911837205700489091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 896
+        width: 23
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a22eb8eb2b73840800000000000000
+      internalID: 5203824425910282882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a0bcc9a34196980800000000000000
+      internalID: -8545276575987594740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 896
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1105e06cb92f1240800000000000000
+      internalID: 4764572819837485339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 896
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9e8808e7c40d8b0800000000000000
+      internalID: -5129515869368948277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9eb6a5f2930c520800000000000000
+      internalID: 2720237050475047409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 25
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90811993895b370d0800000000000000
+      internalID: -3426195226093348855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f0d6a6619945fd0800000000000000
+      internalID: -2354088383654064236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc19a328b58069550800000000000000
+      internalID: 6167125928850395596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26f7cc97a51fb820800000000000000
+      internalID: 2936089291702924846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 832
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc018453d9b661540800000000000000
+      internalID: 4978284761052614859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9449b2761592eeb80800000000000000
+      internalID: -8363702028380433335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 832
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3623a3cca25ca0f10800000000000000
+      internalID: 2236816952548536931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 832
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b326f25c728408c0800000000000000
+      internalID: -4033955895737703495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 832
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1417c7f8498e2470800000000000000
+      internalID: 8371779703816000539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247ef93f32c994210800000000000000
+      internalID: 1317756044207712066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 832
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1db487bab4a440800000000000000
+      internalID: 4946283588128415648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 832
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818f6728b94b77e20800000000000000
+      internalID: 3348343427975018520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b86ca6be52835d0800000000000000
+      internalID: -3082672251896165504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 768
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4ff654e99b02c00800000000000000
+      internalID: 873902417130812609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 768
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be175767207268190800000000000000
+      internalID: -7960632399799946773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 771
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4f15e849210bac0800000000000000
+      internalID: -3841550052894837522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 771
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e490eb63db092c0800000000000000
+      internalID: -4426830390891032998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 768
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce29686e1334796a0800000000000000
+      internalID: -6442606860330167572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_178
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 642
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7635763607173a30800000000000000
+      internalID: 4194846893369800318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_179
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 641
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7332d63f16796c60800000000000000
+      internalID: 7811904905086645117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_180
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 641
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98f0679de9d236a0800000000000000
+      internalID: -6470870100107790181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_181
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 641
+        width: 58
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a2090def8b626e0800000000000000
+      internalID: -1862597991310808562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_182
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 641
+        width: 81
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d1d5fdf3eec690800000000000000
+      internalID: -7579870442927565605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_183
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 641
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca380251ab5f04e70800000000000000
+      internalID: 9097541426855576492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_184
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 448
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329473a89fdf09970800000000000000
+      internalID: 8759780523443177763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_185
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 448
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4d0750955706050800000000000000
+      internalID: 5791758146002277550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_186
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 448
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b78989ebaa17c8f0800000000000000
+      internalID: -520417906278168655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_187
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 448
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c130931caecb050800000000000000
+      internalID: 5817782934261931132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_188
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 448
+        width: 93
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514fddadbec8287b0800000000000000
+      internalID: -5223457673179171819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_189
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 448
+        width: 91
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4347d7aee98118180800000000000000
+      internalID: -9114977100003183564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_190
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 255
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166afddb9f9fb9970800000000000000
+      internalID: 8762872351007155809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_191
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b89ca197be2b6750800000000000000
+      internalID: 6299179869765671092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_192
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e1e16744e31c860800000000000000
+      internalID: 7548382914210045469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_193
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 257
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835962ce96de15990800000000000000
+      internalID: -7398871673603713736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_194
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 239
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb31a4bb2a9410c0800000000000000
+      internalID: -4605887006388438089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_195
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 242
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b610703ceb8dde70800000000000000
+      internalID: 9141616665173169840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_196
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 64
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b187def7e3bab06b0800000000000000
+      internalID: -5328977449140258789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_197
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 64
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8256f887ad5060b0800000000000000
+      internalID: -5737482951131245938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_198
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 64
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37380d73577b9c30800000000000000
+      internalID: 4367215464129509181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_199
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 64
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea79fa4f003adf00800000000000000
+      internalID: 1142278297732348649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_200
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 64
+        width: 93
+        height: 50
+      alignment: 9
+      pivot: {x: 0.16349809, y: 0.43557036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3eeafbdbd9bd70800000000000000
+      internalID: 9059513863286701646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KikeKunSpriteSheet_201
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 64
+        width: 91
+        height: 50
+      alignment: 9
+      pivot: {x: 0.20050518, y: 0.44456756}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee08a85f9ae33cb0800000000000000
+      internalID: -4885303200658747672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

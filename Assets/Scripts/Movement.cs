@@ -13,7 +13,7 @@ public class Movement : MonoBehaviour
     private bool canMove;
 
     public List<Vector3> partyWaypoints;
-    [SerializeField] private int MaximumPartyWaypoints;
+    [SerializeField] private int MaximumPartyWaypoints = 0;
 
     void Start()
     {
@@ -45,7 +45,7 @@ public class Movement : MonoBehaviour
 
     void OnCollisionEnter(Collision col)
     {
-        if(col.gameObject.tag == "Enemy")
+        if(col.gameObject.CompareTag("Enemy"))
         {
             SceneManager.LoadScene("BattleScene");
         }
@@ -56,7 +56,7 @@ public class Movement : MonoBehaviour
 
         moveDir = new Vector3(Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
 
-        rb.position += moveDir * moveSpeed * Time.deltaTime;
+        rb.position += moveDir * (moveSpeed * Time.deltaTime);
 
     }
 

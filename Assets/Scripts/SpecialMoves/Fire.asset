@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3710a2246f3b78f4096b1c30e59402a8, type: 3}
+  m_Name: Fire
+  m_EditorClassIdentifier: 
+  moveName: Fire
+  SPcost: 30
+  description: Inflict fire damage to a single target.
+  value: 8
+  isAHeal: 0
+  statusEffect:
+    status: {fileID: 11400000, guid: 2685532c3eab00848a009c96124320b6, type: 2}
+    chanceOfSuccess: 20
+  moveDirection: 2
+  specialMoveAnimation: {fileID: 4932945172037848983, guid: 5e05bb8d3ca974b4c920ac25b54ecbff,
+    type: 3}

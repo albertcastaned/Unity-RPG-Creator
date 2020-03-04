@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5554b2f2cfd1a6f479fceb704b0294d8, type: 3}
+  m_Name: Enemy1
+  m_EditorClassIdentifier: 
+  enemyName: Enemy
+  sprite: {fileID: -4167543780277359114, guid: 18e3d1c1864b71249992f8445128c267, type: 3}
+  description: A hostile enemy.
+  animator: {fileID: 22100000, guid: 21bfd403c21c8ed439a4f647007a8fe4, type: 2}
+  HP: 21
+  MaxHP: 15
+  SP: 10
+  MaxSP: 10
+  Offense: 40
+  Defense: 1
+  Speed: 1
+  Luck: 10
+  HypnosisChance: 10
+  ParalysisChance: 10
+  specialMoves: []
+  ExpDrop: 1
+  itemsDrop: []

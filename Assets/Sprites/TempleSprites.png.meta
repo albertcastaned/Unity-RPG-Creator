@@ -1,0 +1,4951 @@
+fileFormatVersion: 2
+guid: 2ffde76812e1d0c4b9d85f40fc353760
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4249531618946747244
+    second: TempleSprites_0
+  - first:
+      213: 4371503243536757391
+    second: TempleSprites_1
+  - first:
+      213: 5330996964813827812
+    second: TempleSprites_2
+  - first:
+      213: 4630993909981658448
+    second: TempleSprites_3
+  - first:
+      213: 2528574741151014244
+    second: TempleSprites_4
+  - first:
+      213: -1927803021018690927
+    second: TempleSprites_5
+  - first:
+      213: -3225160242066015870
+    second: TempleSprites_6
+  - first:
+      213: 783475918635759636
+    second: TempleSprites_7
+  - first:
+      213: 2859943646042985966
+    second: TempleSprites_8
+  - first:
+      213: 6388705493496665390
+    second: TempleSprites_9
+  - first:
+      213: -3581203231904328182
+    second: TempleSprites_10
+  - first:
+      213: -2964409111781620703
+    second: TempleSprites_11
+  - first:
+      213: -2059282603264236438
+    second: TempleSprites_12
+  - first:
+      213: -885605301902864838
+    second: TempleSprites_13
+  - first:
+      213: -6040352326832992214
+    second: TempleSprites_14
+  - first:
+      213: 8317443743777194689
+    second: TempleSprites_15
+  - first:
+      213: -3596401473630294797
+    second: TempleSprites_16
+  - first:
+      213: -3742203256119319884
+    second: TempleSprites_17
+  - first:
+      213: -1995748923041246802
+    second: TempleSprites_18
+  - first:
+      213: 2806035253951658573
+    second: TempleSprites_19
+  - first:
+      213: -7447335861827264994
+    second: TempleSprites_20
+  - first:
+      213: 3613660816126514525
+    second: TempleSprites_21
+  - first:
+      213: -7979070736549815023
+    second: TempleSprites_22
+  - first:
+      213: 5927810634432493210
+    second: TempleSprites_23
+  - first:
+      213: 8277358205409608070
+    second: TempleSprites_24
+  - first:
+      213: 5337412039066016344
+    second: TempleSprites_25
+  - first:
+      213: -335682953481296187
+    second: TempleSprites_26
+  - first:
+      213: 3624593993257275776
+    second: TempleSprites_27
+  - first:
+      213: -3042055861419542230
+    second: TempleSprites_28
+  - first:
+      213: -7021080956070372354
+    second: TempleSprites_29
+  - first:
+      213: -828666675471942897
+    second: TempleSprites_30
+  - first:
+      213: -5834039605729445795
+    second: TempleSprites_31
+  - first:
+      213: 4605294157495140779
+    second: TempleSprites_32
+  - first:
+      213: -6534511508760373327
+    second: TempleSprites_33
+  - first:
+      213: 6616708668100757137
+    second: TempleSprites_34
+  - first:
+      213: -6301293959873952136
+    second: TempleSprites_35
+  - first:
+      213: 6656956420406557024
+    second: TempleSprites_36
+  - first:
+      213: 9085741541047773475
+    second: TempleSprites_37
+  - first:
+      213: -6432962812232022403
+    second: TempleSprites_38
+  - first:
+      213: 6738559885975384362
+    second: TempleSprites_39
+  - first:
+      213: -6290929255878578352
+    second: TempleSprites_40
+  - first:
+      213: -7421264583074827597
+    second: TempleSprites_41
+  - first:
+      213: 1300041077139250426
+    second: TempleSprites_42
+  - first:
+      213: -250025397788401884
+    second: TempleSprites_43
+  - first:
+      213: -7320192787689088755
+    second: TempleSprites_44
+  - first:
+      213: 5546516997214229934
+    second: TempleSprites_45
+  - first:
+      213: 3289184301197654503
+    second: TempleSprites_46
+  - first:
+      213: -1951900812164869354
+    second: TempleSprites_47
+  - first:
+      213: 1490556523652680671
+    second: TempleSprites_48
+  - first:
+      213: 9142932358859030319
+    second: TempleSprites_49
+  - first:
+      213: -2214368206483612283
+    second: TempleSprites_50
+  - first:
+      213: -7716552691553025870
+    second: TempleSprites_51
+  - first:
+      213: 8594740421344376132
+    second: TempleSprites_52
+  - first:
+      213: 3890396586706368593
+    second: TempleSprites_53
+  - first:
+      213: -6068956377434947915
+    second: TempleSprites_54
+  - first:
+      213: -4437088733944417020
+    second: TempleSprites_55
+  - first:
+      213: -543729119935697019
+    second: TempleSprites_56
+  - first:
+      213: -4882964418714438373
+    second: TempleSprites_57
+  - first:
+      213: 966080853620907246
+    second: TempleSprites_58
+  - first:
+      213: -3355479848188698377
+    second: TempleSprites_59
+  - first:
+      213: 4980670856148689534
+    second: TempleSprites_60
+  - first:
+      213: 4838280862463389426
+    second: TempleSprites_61
+  - first:
+      213: -6535744227021334996
+    second: TempleSprites_62
+  - first:
+      213: -5382920192484287897
+    second: TempleSprites_63
+  - first:
+      213: 3744097940192861088
+    second: TempleSprites_64
+  - first:
+      213: -8200131951753666020
+    second: TempleSprites_65
+  - first:
+      213: 8409330852231326434
+    second: TempleSprites_66
+  - first:
+      213: 3051055861693074066
+    second: TempleSprites_67
+  - first:
+      213: -3176885638290601525
+    second: TempleSprites_68
+  - first:
+      213: 5472893608684989882
+    second: TempleSprites_69
+  - first:
+      213: -7113274724770445412
+    second: TempleSprites_70
+  - first:
+      213: 1758227180307539477
+    second: TempleSprites_71
+  - first:
+      213: 2996199634480809116
+    second: TempleSprites_72
+  - first:
+      213: 7614853342485599871
+    second: TempleSprites_73
+  - first:
+      213: -7762327470460819103
+    second: TempleSprites_74
+  - first:
+      213: -2842017125297385296
+    second: TempleSprites_75
+  - first:
+      213: -8583254736326486637
+    second: TempleSprites_76
+  - first:
+      213: 692954126504737431
+    second: TempleSprites_77
+  - first:
+      213: 63443087658506982
+    second: TempleSprites_78
+  - first:
+      213: 9128955334281273894
+    second: TempleSprites_79
+  - first:
+      213: 2863971454952627147
+    second: TempleSprites_80
+  - first:
+      213: -8828135816728490828
+    second: TempleSprites_81
+  - first:
+      213: -2529930367567724805
+    second: TempleSprites_82
+  - first:
+      213: 5668699645740142557
+    second: TempleSprites_83
+  - first:
+      213: 2298772789778312891
+    second: TempleSprites_84
+  - first:
+      213: -7152634768096664269
+    second: TempleSprites_85
+  - first:
+      213: -2001620353457528262
+    second: TempleSprites_86
+  - first:
+      213: 6550969795226827646
+    second: TempleSprites_87
+  - first:
+      213: 2051594294767781514
+    second: TempleSprites_88
+  - first:
+      213: -9084716652723459398
+    second: TempleSprites_89
+  - first:
+      213: -6857530969540480513
+    second: TempleSprites_90
+  - first:
+      213: 6434890131397568326
+    second: TempleSprites_91
+  - first:
+      213: 4472556979977041940
+    second: TempleSprites_92
+  - first:
+      213: 385560062147170987
+    second: TempleSprites_93
+  - first:
+      213: -7336131049742010037
+    second: TempleSprites_94
+  - first:
+      213: -4264242280293047722
+    second: TempleSprites_95
+  - first:
+      213: -8607528138402998454
+    second: TempleSprites_96
+  - first:
+      213: 659934465071652545
+    second: TempleSprites_97
+  - first:
+      213: -7165945067442275332
+    second: TempleSprites_98
+  - first:
+      213: 1365508164554322529
+    second: TempleSprites_99
+  - first:
+      213: -2625766681078739885
+    second: TempleSprites_100
+  - first:
+      213: 6637558133594758167
+    second: TempleSprites_101
+  - first:
+      213: -43243825262076045
+    second: TempleSprites_102
+  - first:
+      213: -5546128716489120628
+    second: TempleSprites_103
+  - first:
+      213: 2378507991171634556
+    second: TempleSprites_104
+  - first:
+      213: -838510887023687372
+    second: TempleSprites_105
+  - first:
+      213: -815991317498898451
+    second: TempleSprites_106
+  - first:
+      213: 1317379595514945696
+    second: TempleSprites_107
+  - first:
+      213: 1804885033132619131
+    second: TempleSprites_108
+  - first:
+      213: 5180287257105384324
+    second: TempleSprites_109
+  - first:
+      213: -8853407438590662933
+    second: TempleSprites_110
+  - first:
+      213: -1858868116370539632
+    second: TempleSprites_111
+  - first:
+      213: 9213041718651835372
+    second: TempleSprites_112
+  - first:
+      213: 6656954251259775149
+    second: TempleSprites_113
+  - first:
+      213: 1736397293349420246
+    second: TempleSprites_114
+  - first:
+      213: -7650016818904926188
+    second: TempleSprites_115
+  - first:
+      213: -6257985854371240725
+    second: TempleSprites_116
+  - first:
+      213: 3256145616547864849
+    second: TempleSprites_117
+  - first:
+      213: 5791234037588032669
+    second: TempleSprites_118
+  - first:
+      213: 4112781204888988328
+    second: TempleSprites_119
+  - first:
+      213: -5438915622559991142
+    second: TempleSprites_120
+  - first:
+      213: 8376123525321169841
+    second: TempleSprites_121
+  - first:
+      213: 5534120221626733119
+    second: TempleSprites_122
+  - first:
+      213: -683381835475389340
+    second: TempleSprites_123
+  - first:
+      213: -5107566855138875248
+    second: TempleSprites_124
+  - first:
+      213: 8704435429506171626
+    second: TempleSprites_125
+  - first:
+      213: -679001531984250028
+    second: TempleSprites_126
+  - first:
+      213: -6068874461185152396
+    second: TempleSprites_127
+  - first:
+      213: 888783278692563977
+    second: TempleSprites_128
+  - first:
+      213: 4459705883803658444
+    second: TempleSprites_129
+  - first:
+      213: -3922403577176832806
+    second: TempleSprites_130
+  - first:
+      213: -9063115731763923331
+    second: TempleSprites_131
+  - first:
+      213: -7513082476981207113
+    second: TempleSprites_132
+  - first:
+      213: -4689338163533412276
+    second: TempleSprites_133
+  - first:
+      213: -7171905750175687518
+    second: TempleSprites_134
+  - first:
+      213: 8998713153202832591
+    second: TempleSprites_135
+  - first:
+      213: 7934425299448805848
+    second: TempleSprites_136
+  - first:
+      213: -2223497445752069214
+    second: TempleSprites_137
+  - first:
+      213: 5574374335466403020
+    second: TempleSprites_138
+  - first:
+      213: -1413504561546349036
+    second: TempleSprites_139
+  - first:
+      213: -5908557785635897205
+    second: TempleSprites_140
+  - first:
+      213: -7106692585190243901
+    second: TempleSprites_141
+  - first:
+      213: -934875754835041100
+    second: TempleSprites_142
+  - first:
+      213: -6833843406469208223
+    second: TempleSprites_143
+  - first:
+      213: 6504375405687860359
+    second: TempleSprites_144
+  - first:
+      213: -120469672348198397
+    second: TempleSprites_145
+  - first:
+      213: -3627385296389383729
+    second: TempleSprites_146
+  - first:
+      213: 7372217572486609490
+    second: TempleSprites_147
+  - first:
+      213: 2587107497855048703
+    second: TempleSprites_148
+  - first:
+      213: -3568773862075973094
+    second: TempleSprites_149
+  - first:
+      213: 1662527954956269484
+    second: TempleSprites_150
+  - first:
+      213: 8485339992170387278
+    second: TempleSprites_151
+  - first:
+      213: -1084306764995283929
+    second: TempleSprites_152
+  - first:
+      213: -2715469638757942734
+    second: TempleSprites_153
+  - first:
+      213: -1493271578087300371
+    second: TempleSprites_154
+  - first:
+      213: -6327864530362551568
+    second: TempleSprites_155
+  - first:
+      213: 3458609698531991914
+    second: TempleSprites_156
+  - first:
+      213: -5802682083547776136
+    second: TempleSprites_157
+  - first:
+      213: 1672834377252761271
+    second: TempleSprites_158
+  - first:
+      213: 3714467914104356973
+    second: TempleSprites_159
+  - first:
+      213: 8101824364959202075
+    second: TempleSprites_160
+  - first:
+      213: 6036848378511864652
+    second: TempleSprites_161
+  - first:
+      213: -1875787075843963674
+    second: TempleSprites_162
+  - first:
+      213: -2923884765062184154
+    second: TempleSprites_163
+  - first:
+      213: 3492846347915751494
+    second: TempleSprites_164
+  - first:
+      213: 8321094228501473555
+    second: TempleSprites_165
+  - first:
+      213: 7560061060485529869
+    second: TempleSprites_166
+  - first:
+      213: -7148758603027945068
+    second: TempleSprites_167
+  - first:
+      213: 9002501216901412295
+    second: TempleSprites_168
+  - first:
+      213: -5034478716339543670
+    second: TempleSprites_169
+  - first:
+      213: -106384764597093537
+    second: TempleSprites_170
+  - first:
+      213: -4279172920531210307
+    second: TempleSprites_171
+  - first:
+      213: 3086632855213691857
+    second: TempleSprites_172
+  - first:
+      213: -3377836909807712276
+    second: TempleSprites_173
+  - first:
+      213: -3528319145096210106
+    second: TempleSprites_174
+  - first:
+      213: -406975818102110059
+    second: TempleSprites_175
+  - first:
+      213: 5539331012431399936
+    second: TempleSprites_176
+  - first:
+      213: -3013779139907432647
+    second: TempleSprites_177
+  - first:
+      213: 2518575395987701864
+    second: TempleSprites_178
+  - first:
+      213: -2523040559250804601
+    second: TempleSprites_179
+  - first:
+      213: 8295037363356414188
+    second: TempleSprites_180
+  - first:
+      213: 3381216780968314341
+    second: TempleSprites_181
+  - first:
+      213: 7278128930130746334
+    second: TempleSprites_182
+  - first:
+      213: 7914163860652263598
+    second: TempleSprites_183
+  - first:
+      213: -7943492373545650016
+    second: TempleSprites_184
+  - first:
+      213: 93729431718420389
+    second: TempleSprites_185
+  - first:
+      213: 285027281698571301
+    second: TempleSprites_186
+  - first:
+      213: -6457559481059254011
+    second: TempleSprites_187
+  - first:
+      213: -69651493869386271
+    second: TempleSprites_188
+  - first:
+      213: -2288863283644000588
+    second: TempleSprites_189
+  - first:
+      213: -7219001705146603159
+    second: TempleSprites_190
+  - first:
+      213: 8292680406019459149
+    second: TempleSprites_191
+  - first:
+      213: -1124864903578310039
+    second: TempleSprites_192
+  - first:
+      213: 3180079393671055460
+    second: TempleSprites_193
+  - first:
+      213: 1777843838271843171
+    second: TempleSprites_194
+  - first:
+      213: 1769895156629132614
+    second: TempleSprites_195
+  - first:
+      213: -6980712659632780000
+    second: TempleSprites_196
+  - first:
+      213: -1342571922839112116
+    second: TempleSprites_197
+  - first:
+      213: 5422304461778853111
+    second: TempleSprites_198
+  - first:
+      213: -965574265524090143
+    second: TempleSprites_199
+  - first:
+      213: -2217411018546027344
+    second: TempleSprites_200
+  - first:
+      213: -8842187945104840242
+    second: TempleSprites_201
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TempleSprites_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2050
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8c111e7e59fa30800000000000000
+      internalID: 4249531618946747244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2050
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82f97de903baac30800000000000000
+      internalID: 4371503243536757391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2050
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eee962ae718bf940800000000000000
+      internalID: 5330996964813827812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2050
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d3471dc68944040800000000000000
+      internalID: 4630993909981658448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2050
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dd452845d471320800000000000000
+      internalID: 2528574741151014244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 2050
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a8147cd511f35e0800000000000000
+      internalID: -1927803021018690927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2050
+        width: 36
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28931f3f8dded33d0800000000000000
+      internalID: -3225160242066015870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1985
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4187b5c62377fda00800000000000000
+      internalID: 783475918635759636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1985
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5170ce79f80b720800000000000000
+      internalID: 2859943646042985966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1985
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25947a2ccd39a850800000000000000
+      internalID: 6388705493496665390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1985
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a069cd572a20d4ec0800000000000000
+      internalID: -3581203231904328182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1985
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12443537e9d4cd6d0800000000000000
+      internalID: -2964409111781620703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1985
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a642b440265fb63e0800000000000000
+      internalID: -2059282603264236438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1985
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e80e88ba2b5b3f0800000000000000
+      internalID: -885605301902864838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1920
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a205ae8df8b5c2ca0800000000000000
+      internalID: -6040352326832992214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1920
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c2822b640f7d6370800000000000000
+      internalID: 8317443743777194689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1920
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc239e0ae3071ec0800000000000000
+      internalID: -3596401473630294797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1920
+        width: 36
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2a2b137f5011cc0800000000000000
+      internalID: -3742203256119319884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1920
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1124dadecad44e0800000000000000
+      internalID: -1995748923041246802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1920
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4af20b423a01f620800000000000000
+      internalID: 2806035253951658573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1920
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e12c8cd7fb5a890800000000000000
+      internalID: -7447335861827264994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5518f3cd5d462230800000000000000
+      internalID: 3613660816126514525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ddb36a075a44190800000000000000
+      internalID: -7979070736549815023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1857
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96b1297d50d34250800000000000000
+      internalID: 5927810634432493210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1857
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681ca18be651fd270800000000000000
+      internalID: 8277358205409608070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1857
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a5c6088fb421a40800000000000000
+      internalID: 5337412039066016344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1857
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6e790e12a675bf0800000000000000
+      internalID: -335682953481296187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1857
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0815d1f68052d4230800000000000000
+      internalID: 3624593993257275776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_28
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1794
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a297131cf4278c5d0800000000000000
+      internalID: -3042055861419542230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1792
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb5a2ad11c109e90800000000000000
+      internalID: -7021080956070372354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1792
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7a439c0cff74f0800000000000000
+      internalID: -828666675471942897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1792
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58bfee73e3590fa0800000000000000
+      internalID: -5834039605729445795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_32
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1792
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba10ea7e2aa49ef30800000000000000
+      internalID: 4605294157495140779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_33
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 1792
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d2a37760c055a0800000000000000
+      internalID: -6534511508760373327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1792
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c4601a7543db50800000000000000
+      internalID: 6616708668100757137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1792
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8760668778e4d88a0800000000000000
+      internalID: -6301293959873952136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1729
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069b6932892426c50800000000000000
+      internalID: 6656956420406557024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1729
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a9231bc9071e70800000000000000
+      internalID: 9085741541047773475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1729
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76cc93d76689b6a0800000000000000
+      internalID: -6432962812232022403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1728
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21724d838c248d50800000000000000
+      internalID: 6738559885975384362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1728
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fae3c2c2122b8a0800000000000000
+      internalID: -6290929255878578352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1728
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b233a56e2f520990800000000000000
+      internalID: -7421264583074827597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1728
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc1d44c87caa0210800000000000000
+      internalID: 1300041077139250426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1728
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f1ff3b93bb78cf0800000000000000
+      internalID: -250025397788401884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1664
+        width: 35
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d095a629173796a90800000000000000
+      internalID: -7320192787689088755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1665
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5de9f72df29fc40800000000000000
+      internalID: 5546516997214229934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1665
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e97da1f1b785ad20800000000000000
+      internalID: 3289184301197654503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1665
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613dd1e8d8479e4e0800000000000000
+      internalID: -1951900812164869354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1665
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb85fdc2458fa410800000000000000
+      internalID: 1490556523652680671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1665
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f773ff98832ee70800000000000000
+      internalID: 9142932358859030319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1665
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d10a239dbf441e0800000000000000
+      internalID: -2214368206483612283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1665
+        width: 27
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0c569063c49e490800000000000000
+      internalID: -7716552691553025870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_52
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1601
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4453ce650e6a64770800000000000000
+      internalID: 8594740421344376132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_53
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1601
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158760a55177df530800000000000000
+      internalID: 3890396586706368593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_54
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1601
+        width: 35
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bef5a5545cb6cba0800000000000000
+      internalID: -6068956377434947915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_55
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1600
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405fa502e4b4c62c0800000000000000
+      internalID: -4437088733944417020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_56
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1600
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f62380f394478f0800000000000000
+      internalID: -543729119935697019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1600
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1577a37bb93c3cb0800000000000000
+      internalID: -4882964418714438373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_58
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1600
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec5168fa65386d00800000000000000
+      internalID: 966080853620907246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_59
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1600
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f02bbd2bd0fe61d0800000000000000
+      internalID: -3355479848188698377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_60
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1539
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7222e341c5ee1540800000000000000
+      internalID: 4980670856148689534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1539
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe63b26fc6052340800000000000000
+      internalID: 4838280862463389426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_62
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1538
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26559dd04f5c45a0800000000000000
+      internalID: -6535744227021334996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_63
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1537
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a52b8da960c45b0800000000000000
+      internalID: -5382920192484287897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_64
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 1538
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab97715d35b5f330800000000000000
+      internalID: 3744097940192861088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_65
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1539
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126460af67433e80800000000000000
+      internalID: -8200131951753666020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1538
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea2bf50bd1f3b470800000000000000
+      internalID: 8409330852231326434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_67
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1537
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ac61a1427875a20800000000000000
+      internalID: 3051055861693074066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_68
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1538
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc906a5085f69e3d0800000000000000
+      internalID: -3176885638290601525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1473
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdac2f8dbf93fb40800000000000000
+      internalID: 5472893608684989882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1474
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c970b485352984d90800000000000000
+      internalID: -7113274724770445412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1475
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516eaa41e4a766810800000000000000
+      internalID: 1758227180307539477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1475
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94426961b3a49920800000000000000
+      internalID: 2996199634480809116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_73
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1474
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76dc8f05c46da960800000000000000
+      internalID: 7614853342485599871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1474
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1692decca4ca64490800000000000000
+      internalID: -7762327470460819103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_75
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1474
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b092117b702f88d0800000000000000
+      internalID: -2842017125297385296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_76
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 1474
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39512981b4722e880800000000000000
+      internalID: -8583254736326486637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_77
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1474
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ab4fb4b1edd9900800000000000000
+      internalID: 692954126504737431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_78
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ead65fe62561e000800000000000000
+      internalID: 63443087658506982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_79
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6222e3e528090be70800000000000000
+      internalID: 9128955334281273894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_80
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1409
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb5f434ddedeb720800000000000000
+      internalID: 2863971454952627147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_81
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1409
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bccef68f392c7580800000000000000
+      internalID: -8828135816728490828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_82
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfef6ae1cb1e3ecd0800000000000000
+      internalID: -2529930367567724805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_83
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf49b23b444bae40800000000000000
+      internalID: 5668699645740142557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_84
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1409
+        width: 37
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee1124ca1e6ef10800000000000000
+      internalID: 2298772789778312891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_85
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1409
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3356d7f139cbcbc90800000000000000
+      internalID: -7152634768096664269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_86
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1408
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32e8f0c4e0d834e0800000000000000
+      internalID: -2001620353457528262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1345
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bfecaf158b9ea50800000000000000
+      internalID: 6550969795226827646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_88
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1346
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a860ada242ab87c10800000000000000
+      internalID: 2051594294767781514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_89
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1347
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaa755565a9ce180800000000000000
+      internalID: -9084716652723459398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_90
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1347
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1bc4c7ae725d0a0800000000000000
+      internalID: -6857530969540480513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_91
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1346
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6476e922b725d4950800000000000000
+      internalID: 6434890131397568326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_92
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1346
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b93d60e6b11e30800000000000000
+      internalID: 4472556979977041940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_93
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1346
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba21cdf65d8c95500800000000000000
+      internalID: 385560062147170987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_94
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1346
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49f962cda3d03a90800000000000000
+      internalID: -7336131049742010037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_95
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1346
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526eee2d3e52d4c0800000000000000
+      internalID: -4264242280293047722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a475f4443caeb8880800000000000000
+      internalID: -8607528138402998454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_97
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce12a546ee882900800000000000000
+      internalID: 659934465071652545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 28
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf32f8de27d8c90800000000000000
+      internalID: -7165945067442275332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1281
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162f72ed07243f210800000000000000
+      internalID: 1365508164554322529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1281
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cce3f8d176f8bd0800000000000000
+      internalID: -2625766681078739885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1281
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c9be884f75d1c50800000000000000
+      internalID: 6637558133594758167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1217
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f568458fd566ff0800000000000000
+      internalID: -43243825262076045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1216
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a21721513803b0800000000000000
+      internalID: -5546128716489120628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1216
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7596358a68220120800000000000000
+      internalID: 2378507991171634556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1216
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439c7a67ac20d54f0800000000000000
+      internalID: -838510887023687372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1216
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7dca458340da4f0800000000000000
+      internalID: -815991317498898451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1216
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0240923c5484210800000000000000
+      internalID: 1317379595514945696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_108
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1152
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75f94cff5d3c0910800000000000000
+      internalID: 1804885033132619131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_109
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1152
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483cf3260d314e740800000000000000
+      internalID: 5180287257105384324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1152
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6a00b87d0622580800000000000000
+      internalID: -8853407438590662933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1153
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b3f6ffb49f336e0800000000000000
+      internalID: -1858868116370539632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1153
+        width: 35
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3d81d51ac4bdf70800000000000000
+      internalID: 9213041718651835372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1153
+        width: 39
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da88d581f90426c50800000000000000
+      internalID: 6656954251259775149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1089
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dcba03732ce81810800000000000000
+      internalID: 1736397293349420246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1088
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41878671c3ea5d590800000000000000
+      internalID: -7650016818904926188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1088
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be468cc850b2729a0800000000000000
+      internalID: -6257985854371240725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1088
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111e74bbf27203d20800000000000000
+      internalID: 3256145616547864849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1088
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cf5958ca89e5050800000000000000
+      internalID: 5791234037588032669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1088
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aaaf4427b8831930800000000000000
+      internalID: 4112781204888988328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_120
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1026
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a3df1de071584b0800000000000000
+      internalID: -5438915622559991142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_121
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1024
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9f89b7f7fd3470800000000000000
+      internalID: 8376123525321169841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1024
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f321e5245052dcc40800000000000000
+      internalID: 5534120221626733119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1024
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464f88267d32486f0800000000000000
+      internalID: -683381835475389340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1024
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09863ec91074e19b0800000000000000
+      internalID: -5107566855138875248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1024
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae24a02b7ed5cc870800000000000000
+      internalID: 8704435429506171626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1024
+        width: 26
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf12444b3b396f0800000000000000
+      internalID: -679001531984250028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1024
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a6e92f4d607cba0800000000000000
+      internalID: -6068874461185152396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1024
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cf6c8dea7955c00800000000000000
+      internalID: 888783278692563977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1024
+        width: 27
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc826de6fde04ed30800000000000000
+      internalID: 4459705883803658444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1024
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad447a47ab2d099c0800000000000000
+      internalID: -3922403577176832806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1024
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f4f9a248593280800000000000000
+      internalID: -9063115731763923331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 1024
+        width: 22
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfb25f0b4b2cb790800000000000000
+      internalID: -7513082476981207113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 961
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4888e219cf1ceeb0800000000000000
+      internalID: -4689338163533412276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_134
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 961
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac5236f7b5487c90800000000000000
+      internalID: -7171905750175687518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_135
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 961
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc44a448fe9d1ec70800000000000000
+      internalID: 8998713153202832591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 960
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b48e75cdbc1e60800000000000000
+      internalID: 7934425299448805848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_137
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 960
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3a5fa8adc8421e0800000000000000
+      internalID: -2223497445752069214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_138
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 960
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4778e7ce72c5d40800000000000000
+      internalID: 5574374335466403020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_139
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 960
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416b2a02719326ce0800000000000000
+      internalID: -1413504561546349036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_140
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 960
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80cd44bff5900ea0800000000000000
+      internalID: -5908557785635897205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_141
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 960
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c145d32fb4ff5d90800000000000000
+      internalID: -7106692585190243901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_142
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 960
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4aee34477a603f0800000000000000
+      internalID: -934875754835041100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_143
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 960
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167e1ca01af4921a0800000000000000
+      internalID: -6833843406469208223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_144
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 960
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78cefc548fe244a50800000000000000
+      internalID: 6504375405687860359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_145
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 960
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a5a75a871045ef0800000000000000
+      internalID: -120469672348198397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 896
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc95c39aa40f8adc0800000000000000
+      internalID: -3627385296389383729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 897
+        width: 26
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25af4fe82d06f4660800000000000000
+      internalID: 7372217572486609490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 898
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb566def8047e320800000000000000
+      internalID: 2587107497855048703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 896
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a124343a41b297ec0800000000000000
+      internalID: -3568773862075973094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 896
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca73358dd5c721710800000000000000
+      internalID: 1662527954956269484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 896
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e475bbff3cbf1c570800000000000000
+      internalID: 8485339992170387278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 896
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72437ecfdb4c3f0f0800000000000000
+      internalID: -1084306764995283929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 896
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a797f20c6b05ad0800000000000000
+      internalID: -2715469638757942734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 896
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de26be25965d64be0800000000000000
+      internalID: -1493271578087300371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 896
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f232f07cb8ee28a0800000000000000
+      internalID: -6327864530362551568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 896
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6168b142337fff20800000000000000
+      internalID: 3458609698531991914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 896
+        width: 22
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b7c91936bb87fa0800000000000000
+      internalID: -5802682083547776136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 896
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be6638c00a173710800000000000000
+      internalID: 1672834377252761271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_159
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 22
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60c6c543e07c8330800000000000000
+      internalID: 3714467914104356973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 833
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b7ff9a5567f6070800000000000000
+      internalID: 8101824364959202075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43b71c9d9137c350800000000000000
+      internalID: 6036848378511864652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 832
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e44d06c79dd7f5e0800000000000000
+      internalID: -1875787075843963674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 832
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ca4e2c464c67d0800000000000000
+      internalID: -2923884765062184154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 832
+        width: 32
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640f98e5f35197030800000000000000
+      internalID: 3492846347915751494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 832
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31922602d177a7370800000000000000
+      internalID: 8321094228501473555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 832
+        width: 36
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c086ca7bbae860800000000000000
+      internalID: 7560061060485529869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 832
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49960812de18acc90800000000000000
+      internalID: -7148758603027945068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 832
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c53e63d82f4fec70800000000000000
+      internalID: 9002501216901412295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 832
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8121530840f12ab0800000000000000
+      internalID: -5034478716339543670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_170
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 832
+        width: 30
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b3da8ce9b068ef0800000000000000
+      internalID: -106384764597093537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 832
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf244b96e25d94c0800000000000000
+      internalID: -4279172920531210307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 768
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d3df076a3ce5da20800000000000000
+      internalID: 3086632855213691857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 768
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce745b12a338f11d0800000000000000
+      internalID: -3377836909807712276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 768
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649945e6e64e80fc0800000000000000
+      internalID: -3528319145096210106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 771
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59889d156a12a5af0800000000000000
+      internalID: -406975818102110059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 771
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c47490538afdc40800000000000000
+      internalID: 5539331012431399936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 768
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93fc55607d7ec26d0800000000000000
+      internalID: -3013779139907432647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_178
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860c2e98af6c3f220800000000000000
+      internalID: 2518575395987701864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_179
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 29
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f3ff9afb5cfcd0800000000000000
+      internalID: -2523040559250804601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_180
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 641
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0b3717884ed1370800000000000000
+      internalID: 8295037363356414188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_181
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 641
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5c4327fbe7cee20800000000000000
+      internalID: 3381216780968314341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_182
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 641
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbdfe563bb110560800000000000000
+      internalID: 7278128930130746334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_183
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 641
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea88968a912c4dd60800000000000000
+      internalID: 7914163860652263598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_184
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 449
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a879cec5cb03c190800000000000000
+      internalID: -7943492373545650016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_185
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 448
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af539aeb6efc4100800000000000000
+      internalID: 93729431718420389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_186
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 448
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52440f47dce94f300800000000000000
+      internalID: 285027281698571301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_187
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 448
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501e1879dd32266a0800000000000000
+      internalID: -6457559481059254011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_188
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 448
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e507d9d55c880ff0800000000000000
+      internalID: -69651493869386271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_189
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 448
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b617fe68f25c30e0800000000000000
+      internalID: -2288863283644000588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_190
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 256
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9692cc37234f0db90800000000000000
+      internalID: -7219001705146603159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_191
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 256
+        width: 30
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48c1ac84e4851370800000000000000
+      internalID: 8292680406019459149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_192
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 256
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a29e9745da360f0800000000000000
+      internalID: -1124864903578310039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_193
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 257
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688d491c59e12c20800000000000000
+      internalID: 3180079393671055460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_194
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 257
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b6f4e2d8b2ca810800000000000000
+      internalID: 1777843838271843171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_195
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 257
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6455094844eef8810800000000000000
+      internalID: 1769895156629132614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_196
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 65
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d048b42d68f1f90800000000000000
+      internalID: -6980712659632780000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_197
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 64
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f2cd03f93e5de0800000000000000
+      internalID: -1342571922839112116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_198
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 64
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc185ced25ef3b40800000000000000
+      internalID: 5422304461778853111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_199
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 64
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea8d2342579992f0800000000000000
+      internalID: -965574265524090143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_200
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 64
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4e68e4d6c2a31e0800000000000000
+      internalID: -2217411018546027344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleSprites_201
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 64
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9e8ce69ec3a4580800000000000000
+      internalID: -8842187945104840242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: eb4729b93310f5d4fa2285299d123d95
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

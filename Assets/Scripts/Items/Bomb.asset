@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a37391101589f244eaeda992a82f6131, type: 3}
+  m_Name: Bomb
+  m_EditorClassIdentifier: 
+  itemName: Bomb
+  image: {fileID: -8469204400738329757, guid: 42911939ab6bf9e4ea2cfba023e0789e, type: 3}
+  description: Use on enemy to deal small damage
+  value: 999
+  isAHeal: 0
+  statusEffect: {fileID: 0}
+  moveDirection: 2
