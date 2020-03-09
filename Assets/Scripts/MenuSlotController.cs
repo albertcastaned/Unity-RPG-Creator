@@ -23,7 +23,7 @@ public class MenuSlotController : MonoBehaviour
     [SerializeField]
     private Vector3 UnactiveScale = new Vector3(1f,1f,1f);
     [SerializeField]
-    private Vector3 ActiveScale;
+    private Vector3 ActiveScale = new Vector3(1f,1f,1f);
     
     private Vector3 velocity = Vector3.zero;
 
@@ -49,9 +49,7 @@ public class MenuSlotController : MonoBehaviour
         text = GetComponent<TextMeshProUGUI>();
 
     }
-
-
-
+    
     public void SetToDisabled()
     {
         DISABLED = true;
@@ -61,6 +59,7 @@ public class MenuSlotController : MonoBehaviour
     {
         if(!DISABLED)
             text.color = new Color(0.96f, 1f, 0.43f);
+        
         if (ChangePosition)
         {
             StopCoroutine(nameof(MoveToActive));
@@ -129,6 +128,8 @@ public class MenuSlotController : MonoBehaviour
                 transform.localPosition = Vector3.SmoothDamp(transform.localPosition, ActivePosition, ref velocity, 1 / moveSpeed);
                 yield return null;
             }
+
+            transform.localPosition = ActivePosition;
     }
 
     private IEnumerator MoveToUnactive()
@@ -138,8 +139,9 @@ public class MenuSlotController : MonoBehaviour
         {
             transform.localPosition = Vector3.SmoothDamp(transform.localPosition, UnactivePosition, ref velocity, 1 / moveSpeed);
             yield return null;
-
         }
+
+        transform.localPosition = UnactivePosition;
 
 
     }

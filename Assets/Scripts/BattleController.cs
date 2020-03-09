@@ -230,7 +230,7 @@ public class BattleController : MonoBehaviour
 
             case MenuState.ChoosingItem:
             case MenuState.ChoosingSpecialMove:
-                actionMenuController.ActivateMenu();
+                actionMenuController.SetupActionMenu(true);
                 break;
 
         }
@@ -271,7 +271,7 @@ public class BattleController : MonoBehaviour
                                             actionMenuController.isSpecialMoves = true;
                                             
                                             actionMenuController.SetActionNames(GetSpecialMovesNames(((Player)battleEntities[entityIndex]).specialMoves));
-                                            actionMenuController.ActivateMenu();
+                                            actionMenuController.SetupActionMenu(true);
                                         }
                                         break;
 
@@ -284,7 +284,7 @@ public class BattleController : MonoBehaviour
 
                                             actionMenuController.SetActionNames(GetItemsNames(((Player)battleEntities[entityIndex]).inventory.items));
 
-                                            actionMenuController.ActivateMenu();
+                                            actionMenuController.SetupActionMenu(true);
 
                                         }
                                         break;
@@ -308,7 +308,7 @@ public class BattleController : MonoBehaviour
                         case MenuState.ChoosingSpecialMove:
                             if (Input.GetKeyDown(KeyCode.Space) && CanUseSpecialMove(actionMenuController.GetSelection()))
                             {
-                                actionMenuController.DeactivateMenu();
+                                actionMenuController.SetupActionMenu(false);
                                 previousMenuState = MenuState.ChoosingSpecialMove;
 
                                 switch(battleEntities[entityIndex].specialMoves[actionMenuController.GetSelection()].moveDirection)
@@ -336,7 +336,7 @@ public class BattleController : MonoBehaviour
                             }
                             if (Input.GetKeyDown(KeyCode.Escape))
                             {
-                                actionMenuController.DeactivateMenu();
+                                actionMenuController.SetupActionMenu(false);
                                 previousMenuState = MenuState.Idle;
                                 currentMenuState = MenuState.Idle;
                                 ((Player)battleEntities[entityIndex]).ActivateMenu();
@@ -346,7 +346,7 @@ public class BattleController : MonoBehaviour
                         case MenuState.ChoosingItem:
                             if (Input.GetKeyDown(KeyCode.Space))
                             {
-                                actionMenuController.DeactivateMenu();
+                                actionMenuController.SetupActionMenu(false);
                                 previousMenuState = MenuState.ChoosingItem;
 
                                 switch (((Player)battleEntities[entityIndex]).inventory.GetItem(actionMenuController.GetSelection()).moveDirection)
@@ -373,7 +373,7 @@ public class BattleController : MonoBehaviour
                             }
                             if (Input.GetKeyDown(KeyCode.Escape))
                             {
-                                actionMenuController.DeactivateMenu();
+                                actionMenuController.SetupActionMenu(false);
                                 previousMenuState = MenuState.Idle;
                                 currentMenuState = MenuState.Idle;
                                 ((Player)battleEntities[entityIndex]).ActivateMenu();

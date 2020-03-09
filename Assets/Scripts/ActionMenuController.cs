@@ -33,12 +33,11 @@ public class ActionMenuController : MonoBehaviour
     [HideInInspector] public bool isSpecialMoves;
     void Start()
     {
+        ACTIVE = false;
         myTransform = GetComponent<RectTransform>();
         originalRectSize = SlotParent.GetComponent<RectTransform>().sizeDelta;
         SlotParentTransform = SlotParent.GetComponent<RectTransform>();
-        GenerateTextSlots();
-        UpdateSelectorDestination();
-        DeactivateMenu();
+        myTransform.sizeDelta = nonActiveDimention;
     }
 
     private IEnumerator UpdateSelectorDestination()
@@ -166,27 +165,23 @@ public class ActionMenuController : MonoBehaviour
 
     }
 
-    public void ActivateMenu()
+    public void SetupActionMenu(bool state)
     {
-        ACTIVE = true;
-        slots[choiceIndex].Activate();
-
+        ACTIVE = state;
         StopCoroutine(nameof(UpdateSizeActive));
         StopCoroutine(nameof(UpdateSizeUnactive));
 
-        StartCoroutine(nameof(UpdateSizeActive));
+        if (state)
+        {
+            StartCoroutine(nameof(UpdateSizeActive));
+        }
+        else
+        {
+            StartCoroutine(nameof(UpdateSizeUnactive));
+        }
+
     }
 
-    public void DeactivateMenu()
-    {
-        ACTIVE = false;
-        StopCoroutine(nameof(UpdateSizeActive));
-        StopCoroutine(nameof(UpdateSizeUnactive));
-
-        StartCoroutine(nameof(UpdateSizeUnactive));
-    }
-
-    
     private IEnumerator UpdateSizeActive()
     {
         while (myTransform.sizeDelta != activeDimention)
@@ -195,6 +190,8 @@ public class ActionMenuController : MonoBehaviour
             yield return null;
 
         }
+        slots[choiceIndex].Activate();
+
 
     }
     private IEnumerator UpdateSizeUnactive()
